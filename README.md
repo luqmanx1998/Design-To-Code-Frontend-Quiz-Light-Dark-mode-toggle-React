@@ -1,4 +1,4 @@
-# Product List with Cart
+# Frontend Quiz
 
 ![DESIGN-IMG](preview.jpg)
 
