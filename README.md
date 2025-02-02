@@ -10,7 +10,7 @@ A fully functional and beautiful frontend quiz with a light/dark mode toggle, do
 
 - **React**  
 
-  This challenge was another milestone for me! This is my first time writing with React so I wasn't used to building with the React ecosystem, being so used to writing in HTML, CSS and vanilla JS. I felt like this challenge was a react 'baptism' for me, but it was worth it as I managed to pull through, and React was a lot of fun to work with !
+  This challenge was another milestone for me! It's been awhile writing with React so I wasn't used to building with the React ecosystem, being so used to writing in HTML, CSS and vanilla JS. I felt like this challenge was a react 'baptism' for me, but it was worth it as I managed to pull through !
 
 - **State Management**
     Handling state with useReducer was initially challenging, but it allowed me to manage complex state logic effectively. I learned how to structure state updates and actions to keep the app scalable and maintainable.
